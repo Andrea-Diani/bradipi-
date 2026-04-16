@@ -6,11 +6,11 @@ body {
 }
 
 header {
-   background-color: aqua;
+   background-color: #004a77;
    border-bottom: 5px solid rgb(255, 255, 255);
    text-align: center;
    padding: 10px 0;
-   color: #004a77;
+   color: white;
 }
 
 header p {
