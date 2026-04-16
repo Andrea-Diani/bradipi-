@@ -10,6 +10,7 @@ header {
    border-bottom: 5px solid rgb(255, 255, 255);
    text-align: center;
    padding: 10px 0;
+   color: #004a77;
 }
 
 header p {
@@ -19,7 +20,6 @@ header p {
 nav {
    border-bottom: 2px solid #dbe4f4;
    padding: 10px 0;
-   text-align: center;
 
 }
 
