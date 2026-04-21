@@ -30,6 +30,7 @@ a {
 
 #about {
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: white;
 }
 
 .card {
@@ -40,6 +41,7 @@ a {
    max-width: 50%;
    margin: 30px auto;
    padding: 35px 25px;
+   background-color: white;
 }
 
 main {
