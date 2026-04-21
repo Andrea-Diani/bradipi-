@@ -8,7 +8,7 @@ body {
 
 header {
    background-color: #0e7ce2;
-   border-bottom: 50px solid rgb(255, 255, 255);
+   border-bottom: 10px solid rgb(255, 255, 255);
    text-align: center;
    padding: 10px 0;
    color: white;
@@ -35,7 +35,8 @@ a {
 }
 
 .card {
-   color: aqua;
+   color: #0e7ce2;
+   ;
    border: 1px solid black;
    margin: 10px 25px;
    border-radius: 5%;
@@ -45,6 +46,17 @@ a {
    background-color: white;
 }
 
+.card h2 {
+   color: #0e7ce2;
+
+}
+
+.card h3 {
+
+   color: black;
+}
+
 main {
    align-content: center;
+   color: black;
 }
