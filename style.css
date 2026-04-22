@@ -55,7 +55,11 @@ a {
 
    color: black;
 }
+.card p{
 
+      color: black;
+
+}
 main {
    align-content: center;
    color: black;
