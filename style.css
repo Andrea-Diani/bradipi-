@@ -27,6 +27,7 @@ nav {
 a {
    text-decoration: none;
    background-color: white;
+   
 }
 
 #about {
@@ -36,7 +37,6 @@ a {
 
 .card {
    color: #0e7ce2;
-   ;
    border: 1px solid black;
    margin: 10px 25px;
    border-radius: 5%;
@@ -44,6 +44,8 @@ a {
    margin: 30px auto;
    padding: 35px 25px;
    background-color: white;
+
+   
 }
 
 .card h2 {
@@ -63,4 +65,15 @@ a {
 main {
    align-content: center;
    color: black;
+}
+
+main article {
+   display: block; 
+   border: 1px solid black;
+   border-radius: 10px;
+   max-width: 20%;
+   margin: 15px 0; 
+   color: black;
+   padding: 10px;
+   background-color: white;
 }
