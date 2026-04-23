@@ -71,9 +71,24 @@ main article {
    display: block; 
    border: 1px solid black;
    border-radius: 10px;
-   max-width: 20%;
+   max-width: 100%;
    margin: 15px 0; 
    color: black;
    padding: 10px;
    background-color: white;
+}
+
+ #about article{
+
+ display:inline-block; 
+   vertical-align: top;
+
+   border: 1px solid black;
+   border-radius: 10px;
+   max-width: 150%;
+   margin: 15px 0; 
+   color: black;
+   padding: 10px;
+   background-color: white;
+
 }
