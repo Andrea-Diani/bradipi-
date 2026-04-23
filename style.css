@@ -28,11 +28,11 @@ header {
     background: linear-gradient(rgba(74, 144, 226), rgba(114, 204, 237, 0.3)), url('https://via.placeholder.com/1200x400');
     color: white;
     text-align: center;
-    padding: 20px 0;
+    padding: 15px 0;
 }
 
 .hero {
-    padding: 40px 20px;
+    padding: 35px 20px;
     background-size: cover;
     background-position: center;
 }
@@ -42,7 +42,7 @@ nav ul {
     display: flex;
     justify-content: center;
     background: white;
-    padding: 10px 0;
+    padding: 5px 0;
 }
 
 nav ul li { margin: 0 15px; }
